@@ -1,0 +1,1 @@
+These tasks is to preprocess the data set of text and evaluate the performance of different NLP models in terms of job advertisement classification.
